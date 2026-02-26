@@ -946,8 +946,8 @@ QtObject {
             property int height: 12
             property int radius: 8
             property int textMargin: 2
-            property int hPadding: 10
-            property int vPadding: 2
+            property int hPadding: 6
+            property int vPadding: 6
 
             property D.Palette background: D.Palette {
                 normal: Qt.rgba(0, 0, 0, 0.4)
